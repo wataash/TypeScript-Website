@@ -133,9 +133,14 @@ export const oldHandbookNavigation: NavItem[] = [
       { id: "introduction", title: "Introduction" },
       { id: "library-structures", title: "Library Structures" },
       {
+        id: "global-d-ts",
+        href: "templates/global-d-ts",
+        title: "Template: Global Library",
+      },
+      {
         id: "global-plugin-d-ts",
         href: "templates/global-plugin-d-ts",
-        title: "Template: Global Module",
+        title: "Template: Global Plugin",
       },
       {
         id: "global-modifying-module-d-ts",

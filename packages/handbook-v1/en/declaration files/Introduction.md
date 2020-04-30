@@ -2,10 +2,12 @@
 title: Introduction
 layout: docs
 permalink: /docs/handbook/declaration-files/introduction.html
-oneline: "How to write a high-quality TypeScript Ddeclaration (d.ts) file"
+oneline: "How to write a high-quality TypeScript Declaration (d.ts) file"
 ---
 
 This guide is designed to teach you how to write a high-quality TypeScript Declaration File.
+
+<!-- Add a why you need this section! -->
 
 In this guide, we'll assume basic familiarity with the TypeScript language.
 If you haven't already, you should read the [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
